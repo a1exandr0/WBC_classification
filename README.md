@@ -2,7 +2,7 @@
 
 In this project I've tested different CNN techniques on [this](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm) white blood cell images dataset.
 
-### I had to remove weights from repo cause of their size
+I had to remove weights from repo cause of their size
 
 ## Structure
 
