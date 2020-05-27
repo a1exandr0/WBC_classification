@@ -4,15 +4,15 @@ In this project I've tested different CNN techniques on [this](http://users.cecs
 
 ## Structure
 
-- Project summary could be found in [Summary]() jupyter notebook.
+- Project summary could be found in [Summary](https://github.com/a1exandr0/WBC_classification/blob/master/Summary.ipynb) jupyter notebook.
 
-- Preprocessed Dataset could be found [here]().
+- Preprocessed Dataset could be found [here](https://github.com/a1exandr0/WBC_classification/tree/master/SelfCutData).
 
-- InceptionResNetV2 [notebook]() and [folder]().
+- InceptionResNetV2 [notebook](https://github.com/a1exandr0/WBC_classification/blob/master/InceptionResNetV2_jupyter/InceptionResNetV2.ipynb) and [folder](https://github.com/a1exandr0/WBC_classification/tree/master/InceptionResNetV2_jupyter).
 
-- InceptionV4 [notebook]() and [folder]().
+- InceptionV4 [notebook](https://github.com/a1exandr0/WBC_classification/blob/master/InceptionV4_jupyter/InceptionV4.ipynb) and [folder](https://github.com/a1exandr0/WBC_classification/tree/master/InceptionV4_jupyter).
 
-- Some failed attempts and unfinished stuff could be found [here]().
+- Some failed attempts and unfinished stuff could be found [here](https://github.com/a1exandr0/WBC_classification/tree/master/sandbox).
 
 ## References
 
