@@ -1,6 +1,6 @@
 # WBC_classification
 
-In this project I've tested different CNN techniques on [this](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm) white blood cell images dataset.
+In this project I've tested different CNN techniques and models on [this](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm) white blood cell images dataset.
 
 
 ## Structure
