@@ -2,7 +2,6 @@
 
 In this project I've tested different CNN techniques on [this](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm) white blood cell images dataset.
 
-I had to remove weights from repo cause of their size
 
 ## Structure
 
@@ -15,6 +14,9 @@ I had to remove weights from repo cause of their size
 - InceptionV4 [notebook](https://github.com/a1exandr0/WBC_classification/blob/master/InceptionV4_jupyter/InceptionV4.ipynb) and [folder](https://github.com/a1exandr0/WBC_classification/tree/master/InceptionV4_jupyter).
 
 - Some failed attempts and unfinished stuff could be found [here](https://github.com/a1exandr0/WBC_classification/tree/master/sandbox).
+
+## Note
+I had to remove pretrained weights from repo cause of their size
 
 ## References
 
