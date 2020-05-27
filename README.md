@@ -2,6 +2,8 @@
 
 In this project I've tested different CNN techniques on [this](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm) white blood cell images dataset.
 
+### I had to remove weights from repo cause of their size
+
 ## Structure
 
 - Project summary could be found in [Summary](https://github.com/a1exandr0/WBC_classification/blob/master/Summary.ipynb) jupyter notebook.
