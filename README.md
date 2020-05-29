@@ -9,6 +9,8 @@ In this project I've tested different CNN techniques and models on [this](http:/
 
 - Preprocessed Dataset could be found [here](https://github.com/a1exandr0/WBC_classification/tree/master/SelfCutData).
 
+- .py models that were used are stored [here](https://github.com/a1exandr0/WBC_classification/tree/master/Models).
+
 - InceptionResNetV2 [notebook](https://github.com/a1exandr0/WBC_classification/blob/master/InceptionResNetV2_jupyter/InceptionResNetV2.ipynb) and [folder](https://github.com/a1exandr0/WBC_classification/tree/master/InceptionResNetV2_jupyter).
 
 - InceptionV4 [notebook](https://github.com/a1exandr0/WBC_classification/blob/master/InceptionV4_jupyter/InceptionV4.ipynb) and [folder](https://github.com/a1exandr0/WBC_classification/tree/master/InceptionV4_jupyter).
