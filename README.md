@@ -1,7 +1,8 @@
 # WBC_classification
 
 In this project I've tested different CNN techniques and models on [this](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm) white blood cell images dataset.
-
+## Note
+Skip results whre featurewise norm was used, there was an error in code.
 
 ## Structure
 
